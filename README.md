@@ -11,4 +11,4 @@ Writeups for the [capture-the-flag training challenges](https://training.olicybe
 | miscellaneous    | [Infinite Server](https://training.olicyber.it/challenges#challenge-10)                         | [writeup](Miscellaneous/infinite-server.py)   |
 | miscellaneous    | [Infinite Server](https://training.olicyber.it/challenges#challenge-10)                         | [writeup](Miscellaneous/infinite-server.py)   |
 | miscellaneous    | [Villa Pisani](https://training.olicyber.it/challenges#challenge-3)                             | [writeup](Miscellaneous/villa-pisani.py)      |
-| network security | [you complete me](https://training.olicyber.it/challenges#challenge-28)                         | [writeup](Network Security/you-complete-me.py)|
+| network security | [you complete me](https://training.olicyber.it/challenges#challenge-28)                         | [writeup](Network-Security/you-complete-me.py)|
